@@ -9,7 +9,6 @@ beautifulsoup4==4.9.1
 certifi==2020.12.5
 cffi==1.14.5
 chardet==3.0.4
--e git+git@gitlab.manytask.org:python-spring-2021/programmer228@1b57f9b8ecce16609e27169e48da0434b088b3a7#egg=compgraph&subdirectory=08.2.HW2/compgraph
 docopt==0.6.2
 flake8==3.8.3
 flatbuffers==1.12
