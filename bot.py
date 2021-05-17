@@ -80,5 +80,4 @@ async def main_handler(message: types.Message):
                     await bot.send_photo(message.chat.id, await response.read())
 
 
-if __name__ == '__main__':
-    executor.start_polling(dp)
+executor.start_polling(dp)
